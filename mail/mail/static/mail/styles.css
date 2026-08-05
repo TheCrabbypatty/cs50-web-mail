@@ -1,0 +1,24 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-item {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;           
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.email-item.read {
+  background-color: #e6e6e6; 
+}
+
+.email-item.unread {
+  background-color: white;
+}
+
+.timestamp {
+    color: darkgrey;
+}
