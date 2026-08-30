@@ -51,3 +51,10 @@ The application uses JavaScript to:
 * compose_email() — shows the compose form
 * send_email() — sends a POST request to create a new email
 * load_email(id) — loads a single email and attaches archive/reply buttons
+
+
+## Last Updated
+
+<!-- TIMESTAMP_START -->
+_Last updated: 2026-08-30 21:54 UTC_
+<!-- TIMESTAMP_END -->
